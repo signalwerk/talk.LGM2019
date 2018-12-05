@@ -10,7 +10,7 @@ The last two years I made some efforts to liberate older books. I worked on two 
 * The other book is [«Widerstand braucht viele Sprachen»](http://www.edition8.ch/buch/widerstand-braucht-viele-sprachen/). The Book was published with Adobe InDesign and I wrote several Packages to process InDesign and other file formats in a interchangable format.
 
 # Content
-I would show the Idea of the notzer interchange family to convert some formats (like [pandoc](https://pandoc.org/))
+I would show some stategies to republish proprietary content. Plus I would present the Idea of the notzer interchange family to convert some formats (similar to [pandoc](https://pandoc.org/))
 * [notzer.html2ntz](https://github.com/signalwerk/notzer.html2ntz)
 * [notzer.css-ntz](https://github.com/signalwerk/notzer.css-ntz)
 * [notzer.ntz2icml](https://github.com/signalwerk/notzer.ntz2icml)
@@ -21,4 +21,3 @@ I would show the Idea of the notzer interchange family to convert some formats (
 * [notzer.ntz2idtt](https://github.com/signalwerk/notzer.ntz2idtt)
 * [notzer.editor](https://github.com/signalwerk/notzer.editor)
 
-Plus I would show some stategies to republish proprietary content.
