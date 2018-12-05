@@ -12,7 +12,6 @@ The last two years I made some efforts to liberate older books. I worked on two 
 # Content
 I would show some stategies to republish proprietary content. Plus I would present the Idea of the notzer interchange family to convert some formats (similar to [pandoc](https://pandoc.org/))
 * [notzer.html2ntz](https://github.com/signalwerk/notzer.html2ntz)
-* [notzer.css-ntz](https://github.com/signalwerk/notzer.css-ntz)
 * [notzer.ntz2icml](https://github.com/signalwerk/notzer.ntz2icml)
 * [notzer.icml2ntz](https://github.com/signalwerk/notzer.icml2ntz)
 * [notzer.id2icml](https://github.com/signalwerk/notzer.id2icml)
