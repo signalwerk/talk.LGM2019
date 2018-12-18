@@ -21,7 +21,7 @@ I would show some stategies to republish proprietary content. Plus I would prese
 * [notzer.editor](https://github.com/signalwerk/notzer.editor)
 
 ## Speaker
-Stefan Huber lives and works as an independent developer and designer in Zurich (Switzerland). Develops concepts and realises  blinking things on the web. Teaches at the School of Design Zurich in interaction design. 
+Stefan Huber lives and works as an independent developer and designer in Zurich (Switzerland). Develops concepts and realises  blinking things on the web. Teaches at the «School of Design Zurich» in interaction design. 
 
 
 ## Technical requirement
