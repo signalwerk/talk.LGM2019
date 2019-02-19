@@ -4,7 +4,7 @@
 Lightning talk (5min)
 
 # Synopsis
-The last two years I made some efforts to liberate books and I would show some technics to republish proprietary content and present several Software Packages to process structured data and bring it to open file formats.
+The last two years I made some efforts to liberate books and wrote some Software Packages to process structured data and bring it to open file formats.
 
 
 ## Speaker
