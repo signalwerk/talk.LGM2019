@@ -1,7 +1,7 @@
 # Talk – «Liberate books»
 
 # Format
-Presentation (20min) or Lightning talk (5min) – what would serve best?
+Lightning talk (5min)
 
 # Synopsis
 The last two years I made some efforts to liberate older books. I worked on two books:
