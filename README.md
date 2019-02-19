@@ -1,4 +1,4 @@
-# Talk – «Liberate books»
+# «Liberate books»
 
 # Format
 Lightning talk (5min)
